@@ -1,0 +1,6 @@
+# Docs repo — allow crawlers. Point sitemap to your GitHub Pages URL after enabling Pages.
+User-agent: *
+Allow: /
+
+# Sitemap: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/sitemap.xml
+# Product site (canonical): https://reelcut.video/robots.txt

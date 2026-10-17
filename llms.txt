@@ -1,0 +1,23 @@
+# ReelCut — llms.txt
+# https://reelcut.video
+
+> Script → storyboard → 1M+ B-roll semantic search by shot sentence → voiceover → CapCut/剪映 draft. API: POST /api/v1/clips/search. AI video: low $/s, pay per second on success only (~$0.017/s 480p fast vs typical ~$0.08–0.15/s).
+
+## Product
+ReelCut — https://reelcut.video
+
+## Key pages
+- Try: https://reelcut.video/en/try
+- Script to video: https://reelcut.video/en/script-to-video
+- Million-clip stock: https://reelcut.video/en/stock
+- Stock search API: https://reelcut.video/en/api
+- CapCut export: https://reelcut.video/en/capcut-export
+- Cheap AI video (per second): https://reelcut.video/en/ai-video
+- Pricing: https://reelcut.video/en/pricing
+- Chinese: https://reelcut.video/zh/
+
+## Long-tail index (GitHub)
+LONGTAIL.md — question-style headings for search queries (EN + 中文)
+
+## Support
+support@reelcut.video
